@@ -95,3 +95,6 @@ db.sqlite3
 
 # ignore habitat results folder
 results/
+
+# remove migrations
+migrations/
